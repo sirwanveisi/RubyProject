@@ -4,91 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf1755f-43b1-411f-adb4-56f856761823" name="Changes" comment="modify .gitignore">
-      <change afterPath="$PROJECT_DIR$/RubyBlog/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/.github/dependabot.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/.github/workflows/ci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/.rubocop.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/.ruby-version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/assets/images/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/assets/stylesheets/application.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/controllers/application_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/controllers/concerns/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/helpers/application_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/javascript/application.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/jobs/application_job.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/mailers/application_mailer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/models/application_record.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/models/concerns/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/views/layouts/application.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/views/layouts/mailer.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/views/layouts/mailer.text.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/views/pwa/manifest.json.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/app/views/pwa/service-worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/bin/brakeman" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/bin/bundle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/bin/bundle.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/bin/dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/bin/docker-entrypoint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/bin/importmap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/bin/rails" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/bin/rake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/bin/rubocop" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/bin/thrust" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config.ru" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/application.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/boot.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/cable.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/credentials.yml.enc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/database.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/environment.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/environments/development.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/environments/production.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/environments/test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/importmap.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/initializers/assets.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/initializers/content_security_policy.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/initializers/filter_parameter_logging.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/initializers/inflections.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/locales/en.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/puma.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/routes.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/config/storage.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/db/seeds.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/lib/tasks/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/log/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/public/400.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/public/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/public/406-unsupported-browser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/public/422.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/public/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/public/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/public/icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/script/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/storage/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/test/application_system_test_case.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/test/controllers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/test/fixtures/files/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/test/helpers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/test/integration/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/test/mailers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/test/models/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/test/system/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/test/test_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/tmp/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/tmp/pids/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/tmp/storage/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/vendor/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RubyBlog/vendor/javascript/.keep" afterDir="false" />
+    <list default="true" id="ddf1755f-43b1-411f-adb4-56f856761823" name="Changes" comment="install rails framework">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/category.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/post.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrate/20241211185010_create_posts.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrate/20241211185045_create_categories.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/fixtures/categories.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/fixtures/posts.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/models/category_test.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/models/post_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/RubyProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RubyProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,37 +33,38 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2o1d0LsGH4drMephJjADb4ViBgD" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Azhman/Documents/ruby/RubyProject&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Azhman/Documents/ruby/RubyProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ruby.structure.view.model.defaults.configured": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
   }
-}</component>
-  <component name="RubyModuleManagerSettings">
-    <option name="blackListedRootsPaths">
-      <list>
-        <option value="$PROJECT_DIR$/RubyBlog" />
-      </list>
-    </option>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ddf1755f-43b1-411f-adb4-56f856761823" name="Changes" comment="" />
@@ -146,7 +75,9 @@
       <workItem from="1730040793206" duration="152000" />
       <workItem from="1732862170363" duration="1454000" />
       <workItem from="1732864945793" duration="1031000" />
-      <workItem from="1733685780160" duration="597000" />
+      <workItem from="1733685780160" duration="1121000" />
+      <workItem from="1733727453223" duration="316000" />
+      <workItem from="1733942504645" duration="1686000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -172,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732862481264</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="install rails framework">
+      <option name="closed" value="true" />
+      <created>1733686558154</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733686558154</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +122,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="add .gitignore" />
     <MESSAGE value="modify .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify .gitignore" />
+    <MESSAGE value="install rails framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="install rails framework" />
   </component>
 </project>
